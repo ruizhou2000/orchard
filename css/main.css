@@ -8,9 +8,9 @@ body {
 	margin-top: 400px;
 	margin-bottom: 0px;
 /*	border: 2px red dashed*/;
-	width: 700px;
-	height: 800px;
-	transform: scale(2.2);
+	width: 100vw;
+	height: 100vh;
+	transform: scale(2);
 }
 #sky {
 	margin-top: 0px;
